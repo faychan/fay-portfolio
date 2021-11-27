@@ -22,7 +22,7 @@ class Projects extends Component {
         var imageDefault = require("../images/portfolio/"+projects.images[0]);
         return (
           <div
-            className="col-sm-12 col-md-6 col-lg-4"
+            className="col-sm-12 col-md-6 col-lg-3"
             key={projects.title}
             style={{ cursor: "pointer" }}
           >
