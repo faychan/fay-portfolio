@@ -1,0 +1,389 @@
+{
+    "basic_info": {
+      "description_header": "Aloha",
+      "description": "👋 I'm Farah Noriffat who was born in London in 2001. I'm interested in IT and computers since I was in kindergarten where I explore computers and programming languages ​​everyday. Unfortunately, in the small town I grew up in, Pasuruan, not many could provide satisfactory knowledge about IT, so after junior high school I started to flap my wings outside my comfort zone to study at SMK TELKOM Malang, the best private school⭐ in Indonesia. After entering I began to understand how computers work and the most important thing is to understand the contents of the programmer's brain to be one of them. After graduating I was introduced to the concepts of Frontend and Backend. There I chose to become a Frontend and was very satisfied with the position I chose. Now with the breadth of the world and the knowledge that I still haven't explored. I can't wait to explore the world to learn and learn💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Tenses Detector",
+        "startDate": "2016",
+        "description": "A group project for Java lessons. I was the Team Lead as such I was responsible for splitting up the task and overseeing the progress into succession in the optimal time and quality. I've earned an A grade for the active role and initiative with a great innovative idea that helps education! :)",
+        "images": [
+          "1.png",
+          "1-2.jpg"
+        ],
+        "url": "https://github.com/heuristicmoklet/Tenses-Detector",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Adepentur Bol",
+        "startDate": "2017",
+        "description": "This project was for my Final Assignment to test whether or not am I quick enough to learn new languages with a deadline on the dot. Thankfully it was successful. We even made an event out of it at school!",
+        "images": [
+          "2.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Smart2Spend",
+        "startDate": "2017",
+        "description": "First project I created for the BNI HackFest. Sadly I didn't win as my idea was a bit too mainstream. It was for students to use card rather than cash to pay that the canteen can bill the parent's bank directly which can be supervised by the parents. We planned using 2 media web and mobile. with Push Notif using firebase",
+        "images": [
+          "3.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "CodeIgniter"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Meller",
+        "startDate": "2018",
+        "description": "An internal website project for PT. Finnet in the division I interned for. It connects what merchant uses what biller and vise versa.",
+        "images": [
+          "4.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-phpjs-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "CodeIgniter"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "mySQL"
+          }
+        ]
+      },
+      {
+        "title": "Moklet Associate",
+        "startDate": "2018",
+        "description": "One of the programmers that build the record of SMK Telkom's alumni and their info. This project was specifically requested by our school. What an honor!",
+        "images": [
+          "5.png"
+        ],
+        "url": "https://github.com/faychan/Moklet-Associate",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          },
+          {
+            "class": "devicon-codeigniter-plain",
+            "name": "CodeIgniter"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "mySQL"
+          }
+        ]
+      },
+      {
+        "title": "AuthMC",
+        "startDate": "2018",
+        "description": "The first project as Front end programmer! The project itself is a new way of making a secured authentication called AuthMC. AuthMC uses phone calls and phone numbers validations with reducing cost by 40%, with a more powerful security feature than the two-factor authentication process.",
+        "images": [
+          "no-image-icon.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-expressjs-plain",
+            "name": "ExpressJS"
+          },
+          {
+            "class": "devicon-pug-plain",
+            "name": "Pug"
+          }
+        ]
+      },
+      {
+        "title": "Pointsnet",
+        "startDate": "2018",
+        "description": "The points were redeemed as a cash payment from multiple stores like Starbucks and used in many online shops including Alibaba.",
+        "images": [
+          "no-image-icon.png"
+        ],
+        "url": "https://www.pointsnet.co.uk/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          }
+        ]
+      },
+      {
+        "title": "TAMAM Market",
+        "startDate": "2018",
+        "description": "The first project using VueJS for Islam Boarding school markets under one foundation which is Tamam.",
+        "images": [
+          "no-image-icon.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "VueJS"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Infralib SMI",
+        "startDate": "2018",
+        "description": "Community knowledge sharing through documents, video, images, and articles.",
+        "images": [
+          "6.png"
+        ],
+        "url": "https://infralib.ptsmi.co.id/",
+        "technologies": [
+          {
+            "class": "devicon-vuejs-plain",
+            "name": "VueJS"
+          }
+        ]
+      },
+      {
+        "title": "Catch the beach ball!",
+        "startDate": "2018",
+        "description": "First time using Pixi.js! Learning by doing is the most enjoayble experience ever!!",
+        "images": [
+          "7.png"
+        ],
+        "url": "https://bitbucket.org/faychan/catch-the-ball/",
+        "technologies": [
+          {
+            "class": "devicon-pixijs-plain",
+            "name": "PixiJS"
+          }
+        ]
+      },
+      {
+        "title": "Buyble",
+        "startDate": "2019",
+        "description": "Website that provides services onto the user website like fortune wheel game, survey review through game, and picking deals with crane machine game!",
+        "images": [
+          "8.png",
+          "8-2.png",
+          "8-3.png",
+          "8-4.jpg"
+        ],
+        "videos":[
+          "claw_machine.mp4",
+          "fortune_wheel.mp4",
+          "review_quiz.mp4"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-pixijs-plain",
+            "name": "Pixi.JS"
+          }
+        ]
+      },
+      {
+        "title": "AR Coder",
+        "startDate": "2020",
+        "description": "Using ARJS to change image into marker that when scanned through our website camera displays their 3d model.",
+        "images": [
+          "9.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-arjs-plain",
+            "name": "ARJS"
+          }
+        ]
+      },
+      {
+        "title": "3D Model Modifier",
+        "startDate": "2020",
+        "description": "Modify 3D model transformation and size.",
+        "images": [
+          "10.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-threejs-plain",
+            "name": "ThreeJS"
+          }
+        ]
+      },
+      {
+        "title": "Esplanade",
+        "startDate": "2020",
+        "description": "Display house 3d model on marker display and play animations on click!",
+        "images": [
+          "11.jpg"
+        ],
+        "videos": [
+          "esplanade.mp4"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-aframejs-plain",
+            "name": "Aframe"
+          }
+        ]
+      },
+      {
+        "title": "DEVB",
+        "startDate": "2021",
+        "description": "Halloween-themed party!! The location and marker made the user able to stroll the Virginia Beach along with download stickers or take pictures with filters!",
+        "images": [
+          "12.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          }
+        ]
+      },
+      {
+        "title": "Coreality Hub",
+        "startDate": "2021",
+        "description": "An open community for developers!",
+        "images": [
+          "13.jpg"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "Joobloop",
+        "startDate": "2021",
+        "description": "A B2B website that allows corporate/recruiters find their employee from Panggilin heroes(users that are verified and skilled).",
+        "images": [
+          "14.png"
+        ],
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "ReactJS"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "PT. Finnet Indonesia",
+        "title": "Intern",
+        "years": "07.2017 - 9.2017",
+        "mainTech": [
+          "PHP"
+        ],
+        "technologies": [
+          "PHP",
+          "CodeIgniter",
+          "MySQL",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "AuthScure Sdn. Bhd.",
+        "title": "Front End Engineer",
+        "years": "04.2018 - 11.2018",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "ReactJS",
+          "Pug",
+          "ExpressJS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "DOT Indonesia",
+        "title": "Frontend Developer",
+        "years": "02.2019 - 12.2019",
+        "mainTech": [
+          "Vuejs"
+        ],
+        "technologies": [
+          "VueJS",
+          "ReactJS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Gusto XR Lab",
+        "title": "Frontend Developer",
+        "years": "12.2019 - 02.2021",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "ReactJS",
+          "PixiJS",
+          "ARJS",
+          "AframeJS",
+          "ThreeJS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Panggilin",
+        "title": "Junior Front-End Developer",
+        "years": "04.2021 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "ReactJS",
+          "VueJS",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
