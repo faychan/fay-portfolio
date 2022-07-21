@@ -375,13 +375,26 @@
       {
         "company": "Panggilin",
         "title": "Junior Front-End Developer",
-        "years": "04.2021 - present",
+        "years": "04.2021 - 04.2022",
         "mainTech": [
           "React"
         ],
         "technologies": [
           "ReactJS",
           "VueJS",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Crealoka Creative Studio",
+        "title": "Senior Front-End Developer",
+        "years": "04.2022 - Present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "ReactJS",
+          "NextJS",
           "JavaScript"
         ]
       }
