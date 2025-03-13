@@ -3,7 +3,7 @@
     "description_header": "Hai👋🏻",
     "description": "Kenalin, aku Farah Noriffat, frontend developer yang senang mengubah ide menjadi pengalaman web yang mulus dan intuitif.<span></span>Dengan hampir tujuh tahun pengalaman, aku telah mengembangkan website responsif dan berkinerja tinggi yang tidak hanya menarik secara visual, tetapi juga fungsional. Fokus pada aksesibilitas, standar web modern, dan pengalaman pengguna yang optimal, memastikan setiap proyek berjalan dengan lancar dan efisien.<span></span>Di luar kode, Aku juga menikmati kolaborasi, pemecahan masalah, dan berkontribusi untuk membuat web menjadi tempat yang lebih baik. Dari mengoptimalkan SEO hingga meningkatkan UX atau memimpin tim menuju visi bersama, aku membawa kombinasi kreativitas, keahlian teknis, dan pemikiran strategis ke setiap proyek.<span></span>Jika Anda mencari developer yang tidak hanya memahami kode, tetapi juga peduli pada inovasi dan pengalaman pengguna, ayo terhubung! 🚀",
     "more": "Mau tahu lebih lanjut?",
-    "download": "Klik disini untuk mengunduh CV-ku.",
+    "download": "Unduh CV",
     "section_name": {
       "about": "Tentang",
       "projects": "Proyek",
@@ -16,7 +16,7 @@
       "title": "Meller",
       "startDate": "2018",
       "description": "Sebuah proyek website internal untuk PT. Finnet di divisi tempat saya magang. Ini menghubungkan pedagang apa yang menggunakan tagihan apa dan sebaliknya.",
-      "images": ["4.webp"],
+      "images": ["meller.webp"],
       "technologies": [
         {
           "class": "devicon-phpjs-plain",
