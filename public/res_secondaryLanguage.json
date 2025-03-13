@@ -1,401 +1,288 @@
 {
-    "basic_info": {
-      "description_header": "Aloha",
-      "description": "👋 Halo, Aku Farah Noriffat yang dulu lahir di London tahun 2001. Saya tertarik dengan IT dan komputer sememjak saya tk dimana keseharian saya explore mengenai komputer dan bahasa pemrogramamnya. Sayangnya di kota kecil saya besar, Pasuruan, tidak banyak yang bisa memberikan ilmu yang memuaskan mengenai IT sehingga saya setelah smp mulai mengepakkan sayap saya ke luar dari zona nyaman untuk sekolah di SMK TELKOM Malang, Sekolah Swasta terbaik⭐ di Indonesia. Setelah masuk saya mulai memahami jalan kerja komputer dan yang paling penting ialah memahami isi otak programmer untuk menjadi salah satunya. Setelah lulus saya diperkenalkan oleh konsep Frontend dan Backend. Disitu saya memilih untuk menjadi Frontend dan sangat puas dengan jabatan yang saya pilih. Sekarang dengan luasnya dunia dan ilmu yang masih banyak belum saya jelajahi. Saya tak sabar mengarungi dunia untuk belajar dan belajar💜",
-      "section_name": {
-        "about": "Tentang",
-        "projects": "Proyek",
-        "skills": "Keahlian",
-        "experience": "Pengalaman"
-      }
+  "basic_info": {
+    "description_header": "Hai👋🏻",
+    "description": "Kenalin, aku Farah Noriffat, frontend developer yang senang mengubah ide menjadi pengalaman web yang mulus dan intuitif.<span></span>Dengan hampir tujuh tahun pengalaman, aku telah mengembangkan website responsif dan berkinerja tinggi yang tidak hanya menarik secara visual, tetapi juga fungsional. Fokus pada aksesibilitas, standar web modern, dan pengalaman pengguna yang optimal, memastikan setiap proyek berjalan dengan lancar dan efisien.<span></span>Di luar kode, Aku juga menikmati kolaborasi, pemecahan masalah, dan berkontribusi untuk membuat web menjadi tempat yang lebih baik. Dari mengoptimalkan SEO hingga meningkatkan UX atau memimpin tim menuju visi bersama, aku membawa kombinasi kreativitas, keahlian teknis, dan pemikiran strategis ke setiap proyek.<span></span>Jika Anda mencari developer yang tidak hanya memahami kode, tetapi juga peduli pada inovasi dan pengalaman pengguna, ayo terhubung! 🚀",
+    "more": "Mau tahu lebih lanjut?",
+    "download": "Klik disini untuk mengunduh CV-ku.",
+    "section_name": {
+      "about": "Tentang",
+      "projects": "Proyek",
+      "skills": "Keahlian",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "Meller",
+      "startDate": "2018",
+      "description": "Sebuah proyek website internal untuk PT. Finnet di divisi tempat saya magang. Ini menghubungkan pedagang apa yang menggunakan tagihan apa dan sebaliknya.",
+      "images": ["4.webp"],
+      "technologies": [
+        {
+          "class": "devicon-phpjs-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-codeigniter-plain",
+          "name": "CodeIgniter"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "mySQL"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Tenses Detector",
-        "startDate": "2016",
-        "description": "Proyek kelompok untuk pelajaran Java. Saya adalah Ketua Tim karena itu saya bertanggung jawab untuk membagi tugas dan mengawasi kemajuan menjadi suksesi dalam waktu dan kualitas yang optimal. Saya mendapatkan nilai A untuk peran aktif dan inisiatif dengan ide inovatif hebat yang membantu pendidikan! :)",
-        "images": [
-          "1.png",
-          "1-2.jpg"
-        ],
-        "url": "https://github.com/heuristicmoklet/Tenses-Detector",
-        "technologies": [
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          }
-        ]
-      },
-      {
-        "title": "Adepentur Bol",
-        "startDate": "2017",
-        "description": "Proyek ini adalah untuk Tugas Akhir saya untuk menguji apakah saya cukup cepat untuk belajar bahasa baru dengan tenggat waktu tepat. Syukurlah hasilnya berhasil. Kami bahkan membuat acara dari itu di sekolah!",
-        "images": [
-          "2.jpg"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Smart2Spend",
-        "startDate": "2017",
-        "description": "Proyek pertama yang saya buat untuk BNI HackFest. Sayangnya saya tidak menang karena ide saya agak terlalu mainstream. Itu bagi siswa untuk menggunakan kartu daripada uang tunai untuk membayar kantin dapat menagih bank orang tua secara langsung yang dapat diawasi oleh orang tua. Kami berencana menggunakan 2 media web dan mobile. dengan Push Notif menggunakan firebase",
-        "images": [
-          "3.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-codeigniter-plain",
-            "name": "CodeIgniter"
-          },
-          {
-            "class": "devicon-java-plain",
-            "name": "Java"
-          }
-        ]
-      },
-      {
-        "title": "Meller",
-        "startDate": "2018",
-        "description": "Sebuah proyek website internal untuk PT. Finnet di divisi tempat saya magang. Ini menghubungkan pedagang apa yang menggunakan tagihan apa dan sebaliknya.",
-        "images": [
-          "4.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-phpjs-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-codeigniter-plain",
-            "name": "CodeIgniter"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "mySQL"
-          }
-        ]
-      },
-      {
-        "title": "Moklet Associate",
-        "startDate": "2018",
-        "description": "Salah satu programer yang membangun rekam jejak alumni SMK Telkom dan infonya. Proyek ini secara khusus diminta oleh sekolah kami. Suatu kehormatan!",
-        "images": [
-          "5.png"
-        ],
-        "url": "https://github.com/faychan/Moklet-Associate",
-        "technologies": [
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          },
-          {
-            "class": "devicon-codeigniter-plain",
-            "name": "CodeIgniter"
-          },
-          {
-            "class": "devicon-mysql-plain",
-            "name": "mySQL"
-          }
-        ]
-      },
-      {
-        "title": "AuthMC",
-        "startDate": "2018",
-        "description": "Proyek pertama sebagai programmer Front end! Proyek itu sendiri adalah cara baru untuk membuat otentikasi aman yang disebut AuthMC. AuthMC menggunakan validasi panggilan telepon dan nomor telepon dengan pengurangan biaya sebesar 40%, dengan fitur keamanan yang lebih canggih daripada proses autentikasi dua faktor.",
-        "images": [
-          "no-image-icon.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-expressjs-plain",
-            "name": "ExpressJS"
-          },
-          {
-            "class": "devicon-pug-plain",
-            "name": "Pug"
-          }
-        ]
-      },
-      {
-        "title": "Pointsnet",
-        "startDate": "2018",
-        "description": "Poin ditebus sebagai pembayaran tunai dari beberapa toko seperti Starbucks dan digunakan di banyak toko online termasuk Alibaba.",
-        "images": [
-          "no-image-icon.png"
-        ],
-        "url": "https://www.pointsnet.co.uk/",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          }
-        ]
-      },
-      {
-        "title": "TAMAM Market",
-        "startDate": "2018",
-        "description": "Proyek pertama menggunakan VueJS untuk pasar Pesantren di bawah satu yayasan yaitu Tamam.",
-        "images": [
-          "no-image-icon.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-vuejs-plain",
-            "name": "VueJS"
-          },
-          {
-            "class": "devicon-php-plain",
-            "name": "PHP"
-          }
-        ]
-      },
-      {
-        "title": "Infralib SMI",
-        "startDate": "2018",
-        "description": "Berbagi pengetahuan masyarakat melalui dokumen, video, gambar, dan artikel.",
-        "images": [
-          "6.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-vuejs-plain",
-            "name": "VueJS"
-          }
-        ]
-      },
-      {
-        "title": "Catch the beach ball!",
-        "startDate": "2018",
-        "description": "Pertama kali menggunakan Pixi.js! Belajar sambil melakukan adalah pengalaman paling menyenangkan yang pernah ada!!",
-        "images": [
-          "7.png"
-        ],
-        "url": "https://bitbucket.org/faychan/catch-the-ball/",
-        "technologies": [
-          {
-            "class": "devicon-pixijs-plain",
-            "name": "PixiJS"
-          }
-        ]
-      },
-      {
-        "title": "Buyble",
-        "startDate": "2019",
-        "description": "Situs web yang menyediakan layanan ke situs web pengguna seperti permainan roda keberuntungan, tinjauan survei melalui permainan, dan memilih penawaran dengan permainan mesin derek!",
-        "images": [
-          "8.png",
-          "8-2.png",
-          "8-3.png",
-          "8-4.jpg"
-        ],
-        "videos":[
-          "claw_machine.mp4",
-          "fortune_wheel.mp4",
-          "review_quiz.mp4"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          },
-          {
-            "class": "devicon-pixijs-plain",
-            "name": "Pixi.JS"
-          }
-        ]
-      },
-      {
-        "title": "AR Coder",
-        "startDate": "2020",
-        "description": "Menggunakan ARJS untuk mengubah gambar menjadi penanda atau marker yang ketika dipindai melalui kamera situs web kami menampilkan model 3d mereka.",
-        "images": [
-          "9.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          },
-          {
-            "class": "devicon-arjs-plain",
-            "name": "ARJS"
-          }
-        ]
-      },
-      {
-        "title": "3D Model Modifier",
-        "startDate": "2020",
-        "description": "Ubah transformasi dan ukuran model 3D.",
-        "images": [
-          "10.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          },
-          {
-            "class": "devicon-threejs-plain",
-            "name": "ThreeJS"
-          }
-        ]
-      },
-      {
-        "title": "Esplanade",
-        "startDate": "2020",
-        "description": "Tampilkan model 3d rumah pada tampilan penanda/marker dan mainkan animasi dengan klik!",
-        "images": [
-          "11.jpg"
-        ],
-        "videos": [
-          "esplanade.mp4"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-aframejs-plain",
-            "name": "Aframe"
-          }
-        ]
-      },
-      {
-        "title": "DEVB",
-        "startDate": "2021",
-        "description": "Pesta bertema Halloween!! Lokasi dan penanda/marker membuat pengguna dapat berjalan-jalan di Pantai Virginia bersama dengan mengunduh stiker atau mengambil gambar dengan filter!",
-        "images": [
-          "12.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          }
-        ]
-      },
-      {
-        "title": "Coreality Hub",
-        "startDate": "2021",
-        "description": "Komunitas terbuka untuk developer!",
-        "images": [
-          "13.jpg"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          }
-        ]
-      },
-      {
-        "title": "Joobloop",
-        "startDate": "2021",
-        "description": "Situs web B2B yang memungkinkan perusahaan/perekrut untuk menemukan karyawan mereka atau layanan dari Panggilin Heroes(pengguna yang terverifikasi dan terampil).",
-        "images": [
-          "14.png"
-        ],
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "ReactJS"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "PT. Finnet Indonesia",
-        "title": "Intern",
-        "years": "07.2017 - 9.2017",
-        "mainTech": [
-          "PHP"
-        ],
-        "technologies": [
-          "PHP",
-          "CodeIgniter",
-          "MySQL",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "AuthScure Sdn. Bhd.",
-        "title": "Front End Engineer",
-        "years": "04.2018 - 11.2018",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "ReactJS",
-          "Pug",
-          "ExpressJS",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "DOT Indonesia",
-        "title": "Frontend Developer",
-        "years": "02.2019 - 12.2019",
-        "mainTech": [
-          "Vuejs"
-        ],
-        "technologies": [
-          "VueJS",
-          "ReactJS",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "Gusto XR Lab",
-        "title": "Frontend Developer",
-        "years": "12.2019 - 02.2021",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "ReactJS",
-          "PixiJS",
-          "ARJS",
-          "AframeJS",
-          "ThreeJS",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "Panggilin",
-        "title": "Junior Front-End Developer",
-        "years": "04.2021 - 04.2022",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "ReactJS",
-          "VueJS",
-          "JavaScript"
-        ]
-      },
-      {
-        "company": "Crealoka Creative Studio",
-        "title": "Senior Front-End Developer",
-        "years": "04.2022 - Present",
-        "mainTech": [
-          "React"
-        ],
-        "technologies": [
-          "ReactJS",
-          "NextJS",
-          "JavaScript"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "AuthMC",
+      "startDate": "2018",
+      "description": "Proyek pertama sebagai programmer Front end! Proyek itu sendiri adalah cara baru untuk membuat otentikasi aman yang disebut AuthMC. AuthMC menggunakan validasi panggilan telepon dan nomor telepon dengan pengurangan biaya sebesar 40%, dengan fitur keamanan yang lebih canggih daripada proses autentikasi dua faktor.",
+      "images": ["no-image-icon.webp"],
+      "technologies": [
+        {
+          "class": "devicon-expressjs-plain",
+          "name": "ExpressJS"
+        }
+      ]
+    },
+    {
+      "title": "Pointsnet",
+      "startDate": "2018",
+      "description": "Poin ditebus sebagai pembayaran tunai dari beberapa toko seperti Starbucks dan digunakan di banyak toko online termasuk Alibaba.",
+      "images": ["no-image-icon.webp"],
+      "url": "https://www.pointsnet.co.uk/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        }
+      ]
+    },
+    {
+      "title": "TAMAM Market",
+      "startDate": "2018",
+      "description": "Proyek pertama menggunakan VueJS untuk pasar Pesantren di bawah satu yayasan yaitu Tamam.",
+      "images": ["no-image-icon.webp"],
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        }
+      ]
+    },
+    {
+      "title": "Infralib SMI",
+      "startDate": "2018",
+      "description": "Berbagi pengetahuan masyarakat melalui dokumen, video, gambar, dan artikel.",
+      "images": ["infralib.webp"],
+      "url": "https://infralib.ptsmi.co.id/",
+      "technologies": [
+        {
+          "class": "devicon-vuejs-plain",
+          "name": "VueJS"
+        }
+      ]
+    },
+    {
+      "title": "Beach Volley",
+      "startDate": "2018",
+      "description": "Pertama kali menggunakan Pixi.js! Belajar sambil melakukan adalah pengalaman paling menyenangkan yang pernah ada!!",
+      "images": ["volleyball_beach.webp"],
+      "url": "https://bitbucket.org/faychan/catch-the-ball/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "Buyble",
+      "startDate": "2019",
+      "description": "Situs web yang menyediakan layanan ke situs web pengguna seperti permainan roda keberuntungan, tinjauan survei melalui permainan, dan memilih penawaran dengan permainan mesin derek!",
+      "images": [
+        "hub_mini_games.webp",
+        "claw_machine.webp",
+        "fortune_wheel.webp",
+        "review_quiz.webp"
+      ],
+      "videos": ["claw_machine.webm", "fortune_wheel.webm", "review_quiz.webm"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        }
+      ]
+    },
+    {
+      "title": "AR Coder",
+      "startDate": "2020",
+      "description": "Menggunakan ARJS untuk mengubah gambar menjadi penanda atau marker yang ketika dipindai melalui kamera situs web kami menampilkan model 3d mereka.",
+      "images": ["encode.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        }
+      ]
+    },
+    {
+      "title": "3D Transformer",
+      "startDate": "2020",
+      "description": "Ubah transformasi dan ukuran model 3D.",
+      "images": ["3D_transformation.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-threejs-original",
+          "name": "ThreeJS"
+        }
+      ]
+    },
+    {
+      "title": "Esplanade",
+      "startDate": "2020",
+      "description": "Tampilkan model 3d rumah pada tampilan penanda/marker dan mainkan animasi dengan klik!",
+      "images": ["scan_qr_to_view_3D.webp"],
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "DEVB",
+      "startDate": "2021",
+      "description": "Pesta bertema Halloween!! Lokasi dan penanda/marker membuat pengguna dapat berjalan-jalan di Pantai Virginia bersama dengan mengunduh stiker atau mengambil gambar dengan filter!",
+      "images": ["devb.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        }
+      ]
+    },
+    {
+      "title": "Coreality Hub",
+      "startDate": "2021",
+      "description": "Komunitas terbuka untuk developer!",
+      "images": ["community.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    },
+    {
+      "title": "Joobloop",
+      "startDate": "2021",
+      "description": "Situs web B2B yang memungkinkan perusahaan/perekrut untuk menemukan karyawan mereka atau layanan dari Panggilin Heroes(pengguna yang terverifikasi dan terampil).",
+      "images": ["joobloop.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    },
+    {
+      "title": "M2U ID",
+      "startDate": "2022",
+      "description": "M2U ID Web adalah platform internet banking dari Maybank yang dapat diakses kapan saja dan di mana saja. Sebagai Front-end Developer, saya bertanggung jawab dalam mengimplementasikan user story serta menyelesaikan bug pada frontend menggunakan React.js, Redux, dan Redux Thunk. Peran saya mencakup memastikan fungsionalitas berjalan dengan lancar, menjaga efisiensi kode, serta mengoptimalkan antarmuka pengguna untuk meningkatkan pengalaman perbankan secara keseluruhan.",
+      "images": ["m2u.webp", "m2u_1.webp", "m2u_2.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    },
+    {
+      "title": "eBiz Loan SME",
+      "startDate": "2022",
+      "description": "eBiz Loan adalah platform yang dirancang untuk nasabah dan calon nasabah dalam mengajukan pinjaman, dengan dua produk utama, yaitu PINTAR dan MAXI. Sebagai Front-end Team Leader, saya bertanggung jawab dalam menentukan dan mengawasi arahan teknis pengembangan frontend. Peran saya meliputi memastikan kualitas kode, mengoptimalkan performa aplikasi, serta menjaga keterbacaan dan skalabilitas kode. Saya juga aktif dalam membimbing dan mengembangkan anggota tim agar lebih produktif serta bekerja sama dengan tim desain, backend, dan pemangku kepentingan produk untuk menciptakan pengalaman pengguna yang intuitif dan efisien. Dengan kepemimpinan saya, saya berupaya menghadirkan platform yang berkualitas tinggi serta membangun tim yang solid dan kolaboratif.",
+      "images": ["ebiz.webp"],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-redux-plain",
+          "name": "Redux"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT. Finnet Indonesia",
+      "title": "Intern",
+      "years": "07.2017 - 9.2017",
+      "mainTech": ["PHP"],
+      "technologies": ["PHP", "CodeIgniter", "MySQL", "JavaScript"]
+    },
+    {
+      "company": "AuthScure Sdn. Bhd.",
+      "title": "Front End Engineer",
+      "years": "04.2018 - 11.2018",
+      "mainTech": ["React"],
+      "technologies": ["ReactJS", "Pug", "ExpressJS", "JavaScript"]
+    },
+    {
+      "company": "DOT Indonesia",
+      "title": "Frontend Developer",
+      "years": "02.2019 - 12.2019",
+      "mainTech": ["Vuejs"],
+      "technologies": ["VueJS", "ReactJS", "JavaScript"]
+    },
+    {
+      "company": "Gusto XR Lab",
+      "title": "Frontend Developer",
+      "years": "12.2019 - 02.2021",
+      "mainTech": ["React"],
+      "technologies": [
+        "ReactJS",
+        "PixiJS",
+        "ARJS",
+        "AframeJS",
+        "ThreeJS",
+        "JavaScript"
+      ]
+    },
+    {
+      "company": "Panggilin",
+      "title": "Junior Front-End Developer",
+      "years": "04.2021 - 04.2022",
+      "mainTech": ["React"],
+      "technologies": ["ReactJS", "VueJS", "JavaScript"]
+    },
+    {
+      "company": "Crealoka Creative Studio",
+      "title": "Senior Front-End Developer",
+      "years": "04.2022 - Present",
+      "mainTech": ["React"],
+      "technologies": ["ReactJS", "NextJS", "JavaScript"]
+    }
+  ]
+}

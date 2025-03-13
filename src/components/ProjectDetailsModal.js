@@ -19,8 +19,8 @@ class ProjectDetailsModal extends Component {
             <li className="list-inline-item mx-3" key={i}>
               <span>
                 <div className="text-center">
-                  <i className={icons.class} style={{ fontSize: "300%" }}>
-                    <p className="text-center" style={{ fontSize: "30%" }}>
+                  <i className={icons.class} style={{ fontSize: "3rem" }}>
+                    <p className="text-center" style={{ fontSize: "0.75rem" }}>
                       {icons.name}
                     </p>
                   </i>
@@ -31,11 +31,11 @@ class ProjectDetailsModal extends Component {
         });
         if (this.props.data.images) {
           var img = images.map((elem, i) => {
-            var elemSrc = require("../images/portfolio/"+elem);
+            var elemSrc = require("../images/portfolio/" + elem);
             return <div key={i} data-src={elemSrc} />;
           });
           var vid = videos?.map((elem, i) => {
-            var elemSrc = require("../videos/"+elem);
+            var elemSrc = require("../videos/" + elem);
             return <div key={i} data-src={elemSrc} />;
           });
           img = vid?.length > 0 ? img.concat(vid) : img;

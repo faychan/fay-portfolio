@@ -18,8 +18,8 @@ class Projects extends Component {
     var detailsModalClose = () => this.setState({ detailsModalShow: false });
     if (this.props.resumeProjects && this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.projects;
-      var projects = this.props.resumeProjects.map( (projects) => {
-        var imageDefault = require("../images/portfolio/"+projects.images[0]);
+      var projects = this.props.resumeProjects.map((projects) => {
+        var imageDefault = require("../images/portfolio/" + projects.images[0]);
         return (
           <div
             className="col-sm-12 col-md-6 col-lg-3"
@@ -32,7 +32,14 @@ class Projects extends Component {
                   <img
                     src={imageDefault ? imageDefault : null}
                     alt="projectImages"
-                    style={{width: '230px', height: '230px', marginBottom: 0, paddingBottom: 0, position: 'relative', objectFit: 'cover'}}
+                    style={{
+                      width: "230px",
+                      height: "230px",
+                      marginBottom: 0,
+                      paddingBottom: 0,
+                      position: "relative",
+                      objectFit: "cover",
+                    }}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />

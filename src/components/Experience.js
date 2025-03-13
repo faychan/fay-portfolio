@@ -16,14 +16,14 @@ class Experience extends Component {
 
         var mainTech = mainTechnologies.map((technology, i) => {
           return (
-            <Badge pill className="main-badge mr-2 mb-2" key={i}>
+            <Badge pill className="main-badge me-2 mb-2" key={i}>
               {technology}
             </Badge>
           );
         });
         var tech = technologies.map((technology, i) => {
           return (
-            <Badge pill className="experience-badge mr-2 mb-2" key={i}>
+            <Badge pill className="experience-badge me-2 mb-2" key={i}>
               {technology}
             </Badge>
           );
@@ -37,7 +37,11 @@ class Experience extends Component {
               color: "#fff",
               textAlign: "center",
             }}
-            icon={<i className={`fab fa-${mainTechnologies[0].toLowerCase()} experience-icon`}></i>}
+            icon={
+              <i
+                className={`fab fa-${mainTechnologies[0].toLowerCase()} experience-icon`}
+              ></i>
+            }
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

@@ -1,93 +1,60 @@
 {
-    "basic_info": {
-      "name": "Farah Noriffat",
-      "titles": [ "Front-end Developer" ],
-      "social": [
-        {
-          "name": "bitbucker",
-          "url": "https://bitbucket.org/faychan/",
-          "class": "fab fa-bitbucket"
-        },
-        {
-          "name": "github",
-          "url": "https://github.com/faychan",
-          "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
-        }
-      ],
-      "image": "myprofile.jpeg"
-    },
-    "skills": {
-      "icons": [
-        {
-          "name": "HTML 5",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "90"
-        },
-        {
-          "name": "ReactJS",
-          "class": "devicon-react-plain",
-          "level": "85"
-        },
-        {
-          "name": "VueJS",
-          "class": "devicon-vuejs-plain",
-          "level": "70"
-        },
-        {
-          "name": "NextJS",
-          "class": "devicon-nextjs-original",
-          "level": "85"
-        },
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "PHP",
-          "class": "devicon-php-plain",
-          "level": "60"
-        },
-        {
-          "name": "CodeIgniter",
-          "class": "devicon-codeigniter-plain",
-          "level": "65"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "85"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-postgresql-plain",
-          "level": "75"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "85"
-        }
-      ]
-    }
+  "basic_info": {
+    "name": "Farah Noriffat",
+    "titles": ["Front-end Developer"],
+    "social": [
+      {
+        "name": "bitbucker",
+        "url": "https://bitbucket.org/faychan/",
+        "class": "fab fa-bitbucket"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/faychan",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedIn",
+        "url": "https://www.linkedin.com/in/farah-n-1065b1139/",
+        "class": "fab fa-linkedin"
+      }
+    ],
+    "image": "myprofile.jpeg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "ReactJS",
+        "class": "devicon-react-plain"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-plain"
+      },
+      {
+        "name": "NextJS",
+        "class": "devicon-nextjs-original"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain"
+      },
+      {
+        "name": "NodeJS",
+        "class": "devicon-nodejs-plain"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain"
+      }
+    ]
   }
+}
